@@ -22,7 +22,7 @@ Configuration
 5. Adjust rootServices. Same as userService, only that these service required to be start/stopped by root. (Get service names via `sudo launchctl list`
 6. Export to Application with `Stay open after run handler` checked. Leave everything else unchecked.
 7. Close editor
-8. If you want you can open the app in Finder with "Show Package Contents", go to `Contents/Resources` and replace `applet.icns` with this icon (or any other): `http://www.iconseeker.com/search-icon/xi4dox/power-1.html`
+8. If you want you can open the app in Finder with "Show Package Contents", go to `Contents/Resources` and replace `applet.icns` with this icon (or any other): `http://www.iconseeker.com/search-icon/xi4dox/power-1.html`. It might take a while to become visible though, don't be be surprised.
 
 
 Run
